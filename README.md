@@ -1,1 +1,3 @@
-# 1-day
+# 1-day 
+## lets start learning
+### welocome to ec
